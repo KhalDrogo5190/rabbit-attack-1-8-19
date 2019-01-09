@@ -2,9 +2,47 @@
 
 def start():
     print("Welcome to RABBIT ATTACK!")
+    print("     / \ ")
+    print("    / _ \ ")
+    print("   | / \ | ")
+    print("   ||   || _______ ")
+    print("   ||   || |\     \ ")
+    print("   ||   || ||\     \ ")
+    print("   ||   || || \    | ")
+    print("   ||   || ||  \__/ ")
+    print("   ||   || ||   || ")
+    print("    \\_/ \_/ \_// ")
+    print("   /   _     _   \ ")
+    print("  /               \ ")
+    print("  |    O     O    | ")
+    print("  |   \  ___  /   | ")                           
+    print(" /     \ \_/ /     \ ")
+    print("/  -----  |  --\    \ ")
+    print("|     \__/|\__/ \   | ")
+    print("\       |_|_|       / ")
+    print(" \_____       _____/ ")
+    print("       \     /")
+    print("       |     |")
 
 def end():
     print("Goodbye. Thanks for playing!")
+    print("")  
+    print("        o8%8888, ")    
+    print("      o88%8888888. ")  
+    print("     8'-    -:8888b ")   
+    print("    8'         8888 ")  
+    print("   d8.-=. ,==-.:888b ")  
+    print("   >8 `~` :`~' d8888 ")   
+    print("   88         ,88888 ")   
+    print("   88b. `-~  ':88888 ")  
+    print("   888b ~==~ .:88888 ") 
+    print("   88888o--:':::8888 ")      
+    print("   `88888| :::' 8888b ")  
+    print("   8888^^'       8888b ")  
+    print("  d888           ,%888b. ")   
+    print(" d88%            %%%8--'-. ")  
+    print("/88:.__ ,       _%-' ---  -  ") 
+    print("    '''::===..-'   =  --. ")
     
 def confirm(question):
     while True:
@@ -27,6 +65,12 @@ def play():
             
         if use_grenade:
             print("1... 2... 5... No, 3!")
+            print("")
+            print("'.  \ | /  ,' ")
+            print("  `. `.' ,' ")
+            print(" ( .`.|,' .) ")
+            print(" - ~ -0- ~ - ")
+            print("")
             print("Boom!")
             rabbit_is_alive = False
         else:
