@@ -1,1 +1,99 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\ablom5190\Desktop\rabbit-attack-master\rabbit_attack_v6.py 
+Welcome to RABBIT ATTACK!
+     / \ 
+    / _ \ 
+   | / \ | 
+   ||   || _______ 
+   ||   || |\     \ 
+   ||   || ||\     \ 
+   ||   || || \    | 
+   ||   || ||  \__/ 
+   ||   || ||   || 
+    \_/ \_/ \_// 
+   /   _     _   \ 
+  /               \ 
+  |    O     O    | 
+  |   \  ___  /   | 
+ /     \ \_/ /     \ 
+/  -----  |  --\    \ 
+|     \__/|\__/ \   | 
+\       |_|_|       / 
+ \_____       _____/ 
+       \     /
+       |     |
+Look, a cute little bunny rabbit.
+Shall we use the Holy Hand Grenade? (y/n)neo
+Shall we use the Holy Hand Grenade? (y/n)nme
+Shall we use the Holy Hand Grenade? (y/n)sfonsefnsoef
+Shall we use the Holy Hand Grenade? (y/n)No
+Oh, no! The rabbit just killed one of the knights!
+Only 4 remain.
+Shall we use the Holy Hand Grenade? (y/n)nO
+Oh, no! The rabbit just killed one of the knights!
+Only 3 remain.
+Shall we use the Holy Hand Grenade? (y/n)N
+Oh, no! The rabbit just killed one of the knights!
+Only 2 remain.
+Shall we use the Holy Hand Grenade? (y/n)n
+Oh, no! The rabbit just killed one of the knights!
+Only 1 remain.
+Shall we use the Holy Hand Grenade? (y/n)yEs
+1... 2... 5... No, 3!
 
+'.  \ | /  ,' 
+  `. `.' ,' 
+ ( .`.|,' .) 
+ - ~ -0- ~ - 
+
+Boom!
+The killer rabbit has been defeated. You win!
+Would you like to play again? (y/n)yeS
+Look, a cute little bunny rabbit.
+Shall we use the Holy Hand Grenade? (y/n)Y
+1... 2... 5... No, 3!
+
+'.  \ | /  ,' 
+  `. `.' ,' 
+ ( .`.|,' .) 
+ - ~ -0- ~ - 
+
+Boom!
+The killer rabbit has been defeated. You win!
+Would you like to play again? (y/n)y
+Look, a cute little bunny rabbit.
+Shall we use the Holy Hand Grenade? (y/n)n
+Oh, no! The rabbit just killed one of the knights!
+Only 4 remain.
+Shall we use the Holy Hand Grenade? (y/n)Y
+1... 2... 5... No, 3!
+
+'.  \ | /  ,' 
+  `. `.' ,' 
+ ( .`.|,' .) 
+ - ~ -0- ~ - 
+
+Boom!
+The killer rabbit has been defeated. You win!
+Would you like to play again? (y/n)NO
+Goodbye. Thanks for playing!
+
+        o8%8888, 
+      o88%8888888. 
+     8'-    -:8888b 
+    8'         8888 
+   d8.-=. ,==-.:888b 
+   >8 `~` :`~' d8888 
+   88         ,88888 
+   88b. `-~  ':88888 
+   888b ~==~ .:88888 
+   88888o--:':::8888 
+   `88888| :::' 8888b 
+   8888^^'       8888b 
+  d888           ,%888b. 
+ d88%            %%%8--'-. 
+/88:.__ ,       _%-' ---  -  
+    '''::===..-'   =  --. 
+>>> 
