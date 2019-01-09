@@ -1,2 +1,13 @@
 a. start() ln:33
-b. the question is asked again
+b. Shall we use the Holy Hand Grenade? (y/n)
+c. 5
+d. "n" or "no"
+e. True, False, 0 
+f. False
+g. 2
+h. False, True, 3
+i. did it
+j. code would become long and redundant 
+k. nO, NO, N, yeS, YEs, Y
+l. using the a function to determine the answer yes or no helps save code, the confirm function can be used for any program that runs yes or no questions or can be reused for a program that asks a lot of questions that have the same answer choices 
+m. did it
